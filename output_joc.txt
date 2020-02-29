@@ -1,0 +1,30 @@
+Incepe jocul! 
+Dan --> 2 inima - 9 inima <-- Mihai		 Castigator runda 1 este Mihai		 Dan:25 carti <---> Mihai:27 carti
+Dan --> 2 romb - 9 romb <-- Mihai		 Castigator runda 2 este Mihai		 Dan:24 carti <---> Mihai:28 carti
+Dan --> 2 trefla - 9 trefla <-- Mihai		 Castigator runda 3 este Mihai		 Dan:23 carti <---> Mihai:29 carti
+Dan --> 2 frunza - 9 frunza <-- Mihai		 Castigator runda 4 este Mihai		 Dan:22 carti <---> Mihai:30 carti
+Dan --> 3 inima - 10 inima <-- Mihai		 Castigator runda 5 este Mihai		 Dan:21 carti <---> Mihai:31 carti
+Dan --> 3 romb - 10 romb <-- Mihai		 Castigator runda 6 este Mihai		 Dan:20 carti <---> Mihai:32 carti
+Dan --> 3 trefla - 10 trefla <-- Mihai		 Castigator runda 7 este Mihai		 Dan:19 carti <---> Mihai:33 carti
+Dan --> 3 frunza - 10 frunza <-- Mihai		 Castigator runda 8 este Mihai		 Dan:18 carti <---> Mihai:34 carti
+Dan --> 4 inima - 11 inima <-- Mihai		 Castigator runda 9 este Mihai		 Dan:17 carti <---> Mihai:35 carti
+Dan --> 4 romb - 11 romb <-- Mihai		 Castigator runda 10 este Mihai		 Dan:16 carti <---> Mihai:36 carti
+Dan --> 4 trefla - 11 trefla <-- Mihai		 Castigator runda 11 este Mihai		 Dan:15 carti <---> Mihai:37 carti
+Dan --> 4 frunza - 11 frunza <-- Mihai		 Castigator runda 12 este Mihai		 Dan:14 carti <---> Mihai:38 carti
+Dan --> 5 inima - 12 inima <-- Mihai		 Castigator runda 13 este Mihai		 Dan:13 carti <---> Mihai:39 carti
+Dan --> 5 romb - 12 romb <-- Mihai		 Castigator runda 14 este Mihai		 Dan:12 carti <---> Mihai:40 carti
+Dan --> 5 trefla - 12 trefla <-- Mihai		 Castigator runda 15 este Mihai		 Dan:11 carti <---> Mihai:41 carti
+Dan --> 5 frunza - 12 frunza <-- Mihai		 Castigator runda 16 este Mihai		 Dan:10 carti <---> Mihai:42 carti
+Dan --> 6 inima - 13 inima <-- Mihai		 Castigator runda 17 este Mihai		 Dan:9 carti <---> Mihai:43 carti
+Dan --> 6 romb - 13 romb <-- Mihai		 Castigator runda 18 este Mihai		 Dan:8 carti <---> Mihai:44 carti
+Dan --> 6 trefla - 13 trefla <-- Mihai		 Castigator runda 19 este Mihai		 Dan:7 carti <---> Mihai:45 carti
+Dan --> 6 frunza - 13 frunza <-- Mihai		 Castigator runda 20 este Mihai		 Dan:6 carti <---> Mihai:46 carti
+Dan --> 7 inima - 14 inima <-- Mihai		 Castigator runda 21 este Mihai		 Dan:5 carti <---> Mihai:47 carti
+Dan --> 7 romb - 14 romb <-- Mihai		 Castigator runda 22 este Mihai		 Dan:4 carti <---> Mihai:48 carti
+Dan --> 7 trefla - 14 trefla <-- Mihai		 Castigator runda 23 este Mihai		 Dan:3 carti <---> Mihai:49 carti
+Dan --> 7 frunza - 14 frunza <-- Mihai		 Castigator runda 24 este Mihai		 Dan:2 carti <---> Mihai:50 carti
+Dan --> 8 inima - 8 romb <-- Mihai		 Se va da RAZBOI 		 Dan:1 carti <---> Mihai:49 carti
+-----RAZBOI!-----
+Dan --> 8 trefla - 8 frunza <-- Mihai		 Se va da RAZBOI 		 Dan:0 carti <---> Mihai:48 carti
+-----RAZBOI!-----
+Mihai a castigat jocul cu 24 runde castigate!
